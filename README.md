@@ -12,7 +12,7 @@ There is an mp3 of the official song release in the `mp3` folder you can use as 
 
 You can also hear the song on our YouTube Channel.
 
-[YouTube Link -->](https://www.youtube.com/watch?v=nASm6-RQGoE)
+[YouTube Link -->](https://www.youtube.com/watch?v=XhB-gYyzQko)
 
 
 ## Instructions
