@@ -8,8 +8,6 @@ You can add, remove & alter the music for the song to be any style you want. The
 
 ## Song Info
 
-**BPM:** 81 bpm
-
 There is an mp3 of the official song release in the `mp3` folder you can use as a reference.
 
 You can also hear the song on our YouTube Channel.
